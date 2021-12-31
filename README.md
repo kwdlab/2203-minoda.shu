@@ -53,7 +53,7 @@ $ ./main_quark -u
 ## Install
 
 ```sh
-git clone https://github.com/kwdlab/minoda.shu.git
+$ git clone https://github.com/kwdlab/minoda.shu.git
 ```
 
 ## References
